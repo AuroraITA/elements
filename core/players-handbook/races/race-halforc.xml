@@ -3,7 +3,7 @@
 	<info>
 		<name>Half-Orc</name>
 		<update version="0.2.1">
-			<file name="race-halforc.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/core/players-handbook/races/race-halforc.xml" />
+			<file name="race-halforc.xml" url="https://raw.githubusercontent.com/AuroraITA/elements/master/core/players-handbook/races/race-halforc.xml" />
 		</update>
 	</info>
 	<element name="Half-Orc" type="Race" source="Player’s Handbook" id="ID_RACE_HALFORC">
@@ -60,7 +60,7 @@
 			<select type="Language" name="Customized Language" supports="Custom Race Language" number="2" requirements="ID_WOTC_TCOE_OPTION_CUSTOMIZED_LANGUAGE" />
 			<select type="Race Variant" name="Half-Orc Variant" supports="Half-Orc Variant" optional="true" />
 		</rules>
-	</element>	
+	</element>
 	<element name="Menacing" type="Racial Trait" source="Player’s Handbook" id="ID_RACIAL_TRAIT_MENACING">
 		<description>
 			<p>You gain proficiency in the Intimidation skill.</p>

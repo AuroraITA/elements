@@ -3,7 +3,7 @@
 	<info>
 		<name>Wondrous Items</name>
 		<update version="0.1.0">
-			<file name="items-wondrous.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/core/dungeon-masters-guide/items/items-wondrous.xml" />
+			<file name="items-wondrous.xml" url="https://raw.githubusercontent.com/AuroraITA/elements/master/core/dungeon-masters-guide/items/items-wondrous.xml" />
 		</update>
 	</info>
 	<element name="Alchemy Jug" type="Magic Item" source="Dungeon Master’s Guide" id="ID_WOTC_DMG_MAGIC_ITEM_ALCHEMY_JUG">
@@ -324,7 +324,7 @@
 			<set name="rarity">Uncommon</set>
 		</setters>
 		<rules>
-			<stat name="ac:misc" value="1" />		
+			<stat name="ac:misc" value="1" />
 			<stat name="strength:save:misc" value="1" />
 			<stat name="dexterity:save:misc" value="1" />
 			<stat name="constitution:save:misc" value="1" />
@@ -3308,7 +3308,7 @@
 	<element name="Ioun Stone, Mastery" type="Magic Item" source="Dungeon Master’s Guide" id="ID_WOTC_DMG_MAGIC_ITEM_IOUN_STONE_MASTERY">
 		<description>
 			<p>Your proficiency bonus increases by 1 while this pale green prism orbits your head.</p>
-			
+
 			<p>An <em>Ioun stone</em> is named after Ioun, a god of knowledge and prophecy revered on some worlds. Many types of <em>Ioun stone</em> exist, each type a distinct combination of shape and color.</p>
 			<p class="indent">When you use an action to toss one of these stones into the air, the stone orbits your head at a distance of 1d3 feet and confers a benefit to you. Thereafter, another creature must use an action to grasp or net the stone to separate it from you, either by making a successful attack roll against AC 24 or a successful DC 24 Dexterity (Acrobatics) check. You can use an action to seize and stow the stone, ending its effect.</p>
 			<p class="indent">A stone has AC 24, 10 hit points, and resistance to all damage. It is considered to be an object that is being worn while it orbits your head.</p>
@@ -3329,7 +3329,7 @@
 	<element name="Ioun Stone, Regeneration" type="Magic Item" source="Dungeon Master’s Guide" id="ID_WOTC_DMG_MAGIC_ITEM_IOUN_STONE_REGENERATION">
 		<description>
 			<p>You regain 15 hit points at the end of each hour this pearly white spindle orbits your head, provided that you have at least 1 hit point.</p>
-			
+
 			<p>An <em>Ioun stone</em> is named after Ioun, a god of knowledge and prophecy revered on some worlds. Many types of <em>Ioun stone</em> exist, each type a distinct combination of shape and color.</p>
 			<p class="indent">When you use an action to toss one of these stones into the air, the stone orbits your head at a distance of 1d3 feet and confers a benefit to you. Thereafter, another creature must use an action to grasp or net the stone to separate it from you, either by making a successful attack roll against AC 24 or a successful DC 24 Dexterity (Acrobatics) check. You can use an action to seize and stow the stone, ending its effect.</p>
 			<p class="indent">A stone has AC 24, 10 hit points, and resistance to all damage. It is considered to be an object that is being worn while it orbits your head.</p>
@@ -3347,7 +3347,7 @@
 	<element name="Ioun Stone, Awareness" type="Magic Item" source="Dungeon Master’s Guide" id="ID_WOTC_DMG_MAGIC_ITEM_IOUN_STONE_AWARENESS">
 		<description>
 			<p>You can't be surprised while this dark blue rhomboid orbits your head.</p>
-			
+
 			<p>An <em>Ioun stone</em> is named after Ioun, a god of knowledge and prophecy revered on some worlds. Many types of <em>Ioun stone</em> exist, each type a distinct combination of shape and color.</p>
 			<p class="indent">When you use an action to toss one of these stones into the air, the stone orbits your head at a distance of 1d3 feet and confers a benefit to you. Thereafter, another creature must use an action to grasp or net the stone to separate it from you, either by making a successful attack roll against AC 24 or a successful DC 24 Dexterity (Acrobatics) check. You can use an action to seize and stow the stone, ending its effect.</p>
 			<p class="indent">A stone has AC 24, 10 hit points, and resistance to all damage. It is considered to be an object that is being worn while it orbits your head.</p>
@@ -3365,7 +3365,7 @@
 	<element name="Ioun Stone, Protection" type="Magic Item" source="Dungeon Master’s Guide" id="ID_WOTC_DMG_MAGIC_ITEM_IOUN_STONE_PROTECTION">
 		<description>
 			<p>You gain a +1 bonus to AC while this dusty rose prism orbits your head.</p>
-			
+
 			<p>An <em>Ioun stone</em> is named after Ioun, a god of knowledge and prophecy revered on some worlds. Many types of <em>Ioun stone</em> exist, each type a distinct combination of shape and color.</p>
 			<p class="indent">When you use an action to toss one of these stones into the air, the stone orbits your head at a distance of 1d3 feet and confers a benefit to you. Thereafter, another creature must use an action to grasp or net the stone to separate it from you, either by making a successful attack roll against AC 24 or a successful DC 24 Dexterity (Acrobatics) check. You can use an action to seize and stow the stone, ending its effect.</p>
 			<p class="indent">A stone has AC 24, 10 hit points, and resistance to all damage. It is considered to be an object that is being worn while it orbits your head.</p>
@@ -3388,7 +3388,7 @@
 			<p>This vibrant purple prism stores spells cast into it, holding them until you use them. The stone can store up to 3 levels worth of spells at a time. When found, it contains 1d4 - 1 levels of stored spells chosen by the GM.</p>
 			<p class="indent">Any creature can cast a spell of 1st through 3rd level into the stone by touching it as the spell is cast. The spell has no effect, other than to be stored in the stone. If the stone can't hold the spell, the spell is expended without effect. The level of the slot used to cast the spell determines how much space it uses.</p>
 			<p class="indent">While this stone orbits your head, you can cast any spell stored in it. The spell uses the slot level, spell save DC, spell attack bonus, and spellcasting ability of the original caster, but is otherwise treated as if you cast the spell. The spell cast from the stone is no longer stored in it, freeing up space.</p>
-			
+
 			<p>An <em>Ioun stone</em> is named after Ioun, a god of knowledge and prophecy revered on some worlds. Many types of <em>Ioun stone</em> exist, each type a distinct combination of shape and color.</p>
 			<p class="indent">When you use an action to toss one of these stones into the air, the stone orbits your head at a distance of 1d3 feet and confers a benefit to you. Thereafter, another creature must use an action to grasp or net the stone to separate it from you, either by making a successful attack roll against AC 24 or a successful DC 24 Dexterity (Acrobatics) check. You can use an action to seize and stow the stone, ending its effect.</p>
 			<p class="indent">A stone has AC 24, 10 hit points, and resistance to all damage. It is considered to be an object that is being worn while it orbits your head.</p>
@@ -3406,7 +3406,7 @@
 	<element name="Ioun Stone, Sustenance" type="Magic Item" source="Dungeon Master’s Guide" id="ID_WOTC_DMG_MAGIC_ITEM_IOUN_STONE_SUSTENANCE">
 		<description>
 			<p>You don't need to eat or drink while this clear spindle orbits your head.</p>
-			
+
 			<p>An <em>Ioun stone</em> is named after Ioun, a god of knowledge and prophecy revered on some worlds. Many types of <em>Ioun stone</em> exist, each type a distinct combination of shape and color.</p>
 			<p class="indent">When you use an action to toss one of these stones into the air, the stone orbits your head at a distance of 1d3 feet and confers a benefit to you. Thereafter, another creature must use an action to grasp or net the stone to separate it from you, either by making a successful attack roll against AC 24 or a successful DC 24 Dexterity (Acrobatics) check. You can use an action to seize and stow the stone, ending its effect.</p>
 			<p class="indent">A stone has AC 24, 10 hit points, and resistance to all damage. It is considered to be an object that is being worn while it orbits your head.</p>
@@ -3425,7 +3425,7 @@
 		<description>
 			<p>While this pale lavender ellipsoid orbits your head, you can use your reaction to cancel a spell of 4th level or lower cast by a creature you can see and targeting only you.</p>
 			<p class="indent">Once the stone has canceled 20 levels of spells, it burns out and turns dull gray, losing its magic. If you are targeted by a spell whose level is higher than the number of spell levels the stone has left, the stone can't cancel it.</p>
-			
+
 			<p>An <em>Ioun stone</em> is named after Ioun, a god of knowledge and prophecy revered on some worlds. Many types of <em>Ioun stone</em> exist, each type a distinct combination of shape and color.</p>
 			<p class="indent">When you use an action to toss one of these stones into the air, the stone orbits your head at a distance of 1d3 feet and confers a benefit to you. Thereafter, another creature must use an action to grasp or net the stone to separate it from you, either by making a successful attack roll against AC 24 or a successful DC 24 Dexterity (Acrobatics) check. You can use an action to seize and stow the stone, ending its effect.</p>
 			<p class="indent">A stone has AC 24, 10 hit points, and resistance to all damage. It is considered to be an object that is being worn while it orbits your head.</p>
@@ -3443,7 +3443,7 @@
 	<element name="Ioun Stone, Agility" type="Magic Item" source="Dungeon Master’s Guide" id="ID_WOTC_DMG_MAGIC_ITEM_IOUN_STONE_AGILITY">
 		<description>
 			<p>Your Dexterity score increases by 2, to a maximum of 20, while this deep red sphere orbits your head.</p>
-			
+
 			<p>An <em>Ioun stone</em> is named after Ioun, a god of knowledge and prophecy revered on some worlds. Many types of <em>Ioun stone</em> exist, each type a distinct combination of shape and color.</p>
 			<p class="indent">When you use an action to toss one of these stones into the air, the stone orbits your head at a distance of 1d3 feet and confers a benefit to you. Thereafter, another creature must use an action to grasp or net the stone to separate it from you, either by making a successful attack roll against AC 24 or a successful DC 24 Dexterity (Acrobatics) check. You can use an action to seize and stow the stone, ending its effect.</p>
 			<p class="indent">A stone has AC 24, 10 hit points, and resistance to all damage. It is considered to be an object that is being worn while it orbits your head.</p>
@@ -3464,7 +3464,7 @@
 	<element name="Ioun Stone, Fortitude" type="Magic Item" source="Dungeon Master’s Guide" id="ID_WOTC_DMG_MAGIC_ITEM_IOUN_STONE_FORTITUDE">
 		<description>
 			<p>Your Constitution score increases by 2, to a maximum of 20, while this pink rhomboid orbits your head.</p>
-			
+
 			<p>An <em>Ioun stone</em> is named after Ioun, a god of knowledge and prophecy revered on some worlds. Many types of <em>Ioun stone</em> exist, each type a distinct combination of shape and color.</p>
 			<p class="indent">When you use an action to toss one of these stones into the air, the stone orbits your head at a distance of 1d3 feet and confers a benefit to you. Thereafter, another creature must use an action to grasp or net the stone to separate it from you, either by making a successful attack roll against AC 24 or a successful DC 24 Dexterity (Acrobatics) check. You can use an action to seize and stow the stone, ending its effect.</p>
 			<p class="indent">A stone has AC 24, 10 hit points, and resistance to all damage. It is considered to be an object that is being worn while it orbits your head.</p>
@@ -3485,7 +3485,7 @@
 	<element name="Ioun Stone, Insight" type="Magic Item" source="Dungeon Master’s Guide" id="ID_WOTC_DMG_MAGIC_ITEM_IOUN_STONE_INSIGHT">
 		<description>
 			<p>Your Wisdom score increases by 2, to a maximum of 20, while this incandescent blue sphere orbits your head.</p>
-			
+
 			<p>An <em>Ioun stone</em> is named after Ioun, a god of knowledge and prophecy revered on some worlds. Many types of <em>Ioun stone</em> exist, each type a distinct combination of shape and color.</p>
 			<p class="indent">When you use an action to toss one of these stones into the air, the stone orbits your head at a distance of 1d3 feet and confers a benefit to you. Thereafter, another creature must use an action to grasp or net the stone to separate it from you, either by making a successful attack roll against AC 24 or a successful DC 24 Dexterity (Acrobatics) check. You can use an action to seize and stow the stone, ending its effect.</p>
 			<p class="indent">A stone has AC 24, 10 hit points, and resistance to all damage. It is considered to be an object that is being worn while it orbits your head.</p>
@@ -3506,7 +3506,7 @@
 	<element name="Ioun Stone, Intellect" type="Magic Item" source="Dungeon Master’s Guide" id="ID_WOTC_DMG_MAGIC_ITEM_IOUN_STONE_INTELLECT">
 		<description>
 			<p>Your Intelligence score increases by 2, to a maximum of 20, while this marbled scarlet and blue sphere orbits your head.</p>
-			
+
 			<p>An <em>Ioun stone</em> is named after Ioun, a god of knowledge and prophecy revered on some worlds. Many types of <em>Ioun stone</em> exist, each type a distinct combination of shape and color.</p>
 			<p class="indent">When you use an action to toss one of these stones into the air, the stone orbits your head at a distance of 1d3 feet and confers a benefit to you. Thereafter, another creature must use an action to grasp or net the stone to separate it from you, either by making a successful attack roll against AC 24 or a successful DC 24 Dexterity (Acrobatics) check. You can use an action to seize and stow the stone, ending its effect.</p>
 			<p class="indent">A stone has AC 24, 10 hit points, and resistance to all damage. It is considered to be an object that is being worn while it orbits your head.</p>
@@ -3527,7 +3527,7 @@
 	<element name="Ioun Stone, Leadership" type="Magic Item" source="Dungeon Master’s Guide" id="ID_WOTC_DMG_MAGIC_ITEM_IOUN_STONE_LEADERSHIP">
 		<description>
 			<p>Your Charisma score increases by 2, to a maximum of 20, while this marbled pink and green sphere orbits your head.</p>
-			
+
 			<p>An <em>Ioun stone</em> is named after Ioun, a god of knowledge and prophecy revered on some worlds. Many types of <em>Ioun stone</em> exist, each type a distinct combination of shape and color.</p>
 			<p class="indent">When you use an action to toss one of these stones into the air, the stone orbits your head at a distance of 1d3 feet and confers a benefit to you. Thereafter, another creature must use an action to grasp or net the stone to separate it from you, either by making a successful attack roll against AC 24 or a successful DC 24 Dexterity (Acrobatics) check. You can use an action to seize and stow the stone, ending its effect.</p>
 			<p class="indent">A stone has AC 24, 10 hit points, and resistance to all damage. It is considered to be an object that is being worn while it orbits your head.</p>
@@ -3548,7 +3548,7 @@
 	<element name="Ioun Stone, Strength" type="Magic Item" source="Dungeon Master’s Guide" id="ID_WOTC_DMG_MAGIC_ITEM_IOUN_STONE_STRENGTH">
 		<description>
 			<p>Your Strength score increases by 2, to a maximum of 20, while this pale blue rhomboid orbits your head.</p>
-			
+
 			<p>An <em>Ioun stone</em> is named after Ioun, a god of knowledge and prophecy revered on some worlds. Many types of <em>Ioun stone</em> exist, each type a distinct combination of shape and color.</p>
 			<p class="indent">When you use an action to toss one of these stones into the air, the stone orbits your head at a distance of 1d3 feet and confers a benefit to you. Thereafter, another creature must use an action to grasp or net the stone to separate it from you, either by making a successful attack roll against AC 24 or a successful DC 24 Dexterity (Acrobatics) check. You can use an action to seize and stow the stone, ending its effect.</p>
 			<p class="indent">A stone has AC 24, 10 hit points, and resistance to all damage. It is considered to be an object that is being worn while it orbits your head.</p>
@@ -3566,7 +3566,7 @@
 			<stat name="strength" value="2" />
 		</rules>
 	</element>
-	<element name="Oil of Slipperiness" type="Magic Item" source="Dungeon Master’s Guide" id="ID_WOTC_DMG_MAGIC_ITEM_OIL_OF_SLIPPERINESS">		
+	<element name="Oil of Slipperiness" type="Magic Item" source="Dungeon Master’s Guide" id="ID_WOTC_DMG_MAGIC_ITEM_OIL_OF_SLIPPERINESS">
 		<description>
 			<p>This sticky black unguent is thick and heavy in the container, but it flows quickly when poured. The oil can cover a Medium or smaller creature, along with the equipment it’s wearing and carrying (one additional vial is required for each size category above Medium). Applying the oil takes 10 minutes. The affected creature then gains the effect of a <em>freedom of movement</em> spell for 8 hours.</p>
 			<p class="indent">Alternatively, the oil can be poured on the ground as an action, where it covers a 10-foot square, duplicating the effect of the <em>grease</em> spell in that area for 8 hours.</p>
@@ -3580,7 +3580,7 @@
 			<set name="stackable">true</set>
 		</setters>
 	</element>
-	<element name="Oil of Etherealness" type="Magic Item" source="Dungeon Master’s Guide" id="ID_WOTC_DMG_MAGIC_ITEM_OIL_OF_ETHEREALNESS">		
+	<element name="Oil of Etherealness" type="Magic Item" source="Dungeon Master’s Guide" id="ID_WOTC_DMG_MAGIC_ITEM_OIL_OF_ETHEREALNESS">
 		<description>
 			<p>Beads of this cloudy gray oil form on the outside of its container and quickly evaporate. The oil can cover a Medium or smaller creature, along with the equipment it’s wearing and carrying (one additional vial is required for each size category above Medium). Applying the oil takes 10 minutes. The affected creature then gains the effect of the <em>etherealness</em> spell for 1 hour.</p>
 		</description>
@@ -3593,7 +3593,7 @@
 			<set name="stackable">true</set>
 		</setters>
 	</element>
-	<element name="Oil of Sharpness" type="Magic Item" source="Dungeon Master’s Guide" id="ID_WOTC_DMG_MAGIC_ITEM_OIL_OF_SHARPNESS">		
+	<element name="Oil of Sharpness" type="Magic Item" source="Dungeon Master’s Guide" id="ID_WOTC_DMG_MAGIC_ITEM_OIL_OF_SHARPNESS">
 		<description>
 			<p>This clear, gelatinous oil sparkles with tiny, ultrathin silver shards. The oil can coat one slashing or piercing weapon or up to 5 pieces of slashing or piercing ammunition. Applying the oil takes 1 minute. For 1 hour, the coated item is magical and has a +3 bonus to attack and damage rolls.</p>
 		</description>

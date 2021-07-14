@@ -3,10 +3,10 @@
 	<info>
 		<name>Bard</name>
 		<update version="0.4.9">
-			<file name="class-bard.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/core/players-handbook/classes/class-bard.xml" />
+			<file name="class-bard.xml" url="https://raw.githubusercontent.com/AuroraITA/elements/master/core/players-handbook/classes/class-bard.xml" />
 		</update>
 	</info>
-	
+
 	<element name="Bard" type="Class" source="Player’s Handbook" id="ID_WOTC_PHB_CLASS_BARD">
 		<description>
 			<p>Humming as she traces her fingers over an ancient monument in a long-forgotten ruin, a half-elf in rugged leathers finds knowledge springing into her mind, conjured forth by the magic of her song—knowledge of the people who constructed the monument and the mythic saga it depicts.</p>

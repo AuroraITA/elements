@@ -3,7 +3,7 @@
 	<info>
 		<name>Rogue</name>
 		<update version="0.3.2">
-			<file name="class-rogue.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/core/players-handbook/classes/class-rogue.xml" />
+			<file name="class-rogue.xml" url="https://raw.githubusercontent.com/AuroraITA/elements/master/core/players-handbook/classes/class-rogue.xml" />
 		</update>
 	</info>
 
@@ -476,7 +476,7 @@
 				<tr><td>18th</td><td>4</td><td>11</td><td>4</td><td>3</td><td>3</td><td>—</td></tr>
 				<tr><td>19th</td><td>4</td><td>12</td><td>4</td><td>3</td><td>3</td><td>1</td></tr>
 				<tr><td>20th</td><td>4</td><td>13</td><td>4</td><td>3</td><td>3</td><td>1</td></tr>
-			</table>				
+			</table>
 		</description>
 		<sheet display="false" />
 		<spellcasting name="Arcane Trickster" ability="Intelligence" allowReplace="true">
@@ -520,7 +520,7 @@
 			<p class="indent">In addition, you can use the bonus action granted by your Cunning Action to control the hand.</p>
 		</description>
 		<sheet>
-			<description>When you cast mage hand, you can make the spectral hand invisible, and you can perform the following additional tasks with it: 
+			<description>When you cast mage hand, you can make the spectral hand invisible, and you can perform the following additional tasks with it:
 			You can stow one object the hand is holding in a container worn or carried by another creature, retrieve an object in a container worn or carried by another creature, or use thieves’ tools to pick locks and disarm traps at range.
 			You can perform one of these tasks without being noticed by a creature if you succeed on a Sleight of Hand check contested by the creature’s Perception check. In addition, you can use the bonus action granted by your Cunning Action to control the hand.</description>
 		</sheet>

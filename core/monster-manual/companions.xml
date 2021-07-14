@@ -3,10 +3,10 @@
     <info>
         <name>Companions</name>
         <update version="0.0.4">
-            <file name="companions.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/companions.xml" />
+            <file name="companions.xml" url="https://raw.githubusercontent.com/AuroraITA/elements/master/companions.xml" />
         </update>
     </info>
-        
+
 	<element name="Imp" type="Companion" source="Monster Manual" id="ID_WOTC_MM_COMPANION_IMP">
 		<supports>Familiar, Variant Familiar</supports>
 		<description>
@@ -303,5 +303,5 @@
 			<description>The sprite magically turns invisible until it attacks or casts a spell, or until its concentration ends (as if concentrating on a spell). Any equipment the sprite wears or carries is invisible with it.</description>
 		</sheet>
 	</element>
-    
+
 </elements>

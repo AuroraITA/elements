@@ -3,7 +3,7 @@
 	<info>
 		<name>Spells</name>
 		<update version="0.4.8">
-			<file name="spells.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/core/players-handbook/spells.xml" />
+			<file name="spells.xml" url="https://raw.githubusercontent.com/AuroraITA/elements/master/core/players-handbook/spells.xml" />
 		</update>
 	</info>
 
@@ -1186,7 +1186,7 @@
 	<element name="Command" type="Spell" source="Player’s Handbook" id="ID_PHB_SPELL_COMMAND">
 		<supports>Cleric, Paladin, Spell Saving Throw</supports>
 		<description>
-			<p>You speak a one-word command to a creature you can see within range. The target must succeed on a Wisdom saving throw or follow the command on its next turn. The spell has no effect if the target is undead, if it doesn’t understand your language, or if your command is directly harmful to it.  Some typical commands and their effects follow. You might issue a command other than one described here. If you do so, the DM determines how the target behaves. If the target can’t follow your command, the spell ends.</p>  
+			<p>You speak a one-word command to a creature you can see within range. The target must succeed on a Wisdom saving throw or follow the command on its next turn. The spell has no effect if the target is undead, if it doesn’t understand your language, or if your command is directly harmful to it.  Some typical commands and their effects follow. You might issue a command other than one described here. If you do so, the DM determines how the target behaves. If the target can’t follow your command, the spell ends.</p>
 			<p class="indent"><b><i>Approach.</i></b> The target moves toward you by the shortest and most direct route, ending its turn if it moves within 5 feet of you.</p>
 			<p class="indent"><b><i>Drop.</i></b> The target drops whatever it is holding and then ends its turn.</p>
 			<p class="indent"><b><i>Flee.</i></b> The target spends its turn moving away from you by the fastest available means.</p>
@@ -1240,7 +1240,7 @@
 				<li>influence from other planes of existence</li>
 				<li>buildings</li>
 			</ul>
-			<p class="indent">For example, you could determine the location of powerful undead in the area, the location of major sources of safe drinking water, and the location of any nearby towns.</p>      
+			<p class="indent">For example, you could determine the location of powerful undead in the area, the location of major sources of safe drinking water, and the location of any nearby towns.</p>
 		</description>
 		<setters>
 			<set name="keywords"></set>
@@ -1379,7 +1379,7 @@
 				<li>Four beasts of challenge rating 1/2 or lower</li>
 				<li>Eight beasts of challenge rating 1/4 or lower</li>
 			</ul>
-			<p class="indent">Each beast is also considered fey, and it disappears when it drops to 0 hit points or when the spell ends.</p>      
+			<p class="indent">Each beast is also considered fey, and it disappears when it drops to 0 hit points or when the spell ends.</p>
 			<p class="indent">The summoned creatures are friendly to you and your companions. Roll initiative for the summoned creatures as a group, which has its own turns. They obey any verbal commands that you issue to them (no action required by you). If you don’t issue any commands to them, they defend themselves from hostile creatures, but otherwise take no actions.</p>
 			<p class="indent">The DM has the creatures’ statistics.</p>
 			<p class="indent"><b><i>At Higher Levels.</i></b> When you cast this spell using certain higher-level spell slots, you choose one of the summoning options above, and more creatures appear: twice as many with a 5th-level slot, three times as many with a 7th-level slot, and four times as many with a 9th-level slot.</p>
@@ -1587,7 +1587,7 @@
 		<supports>Cleric, Druid, Melee, Spell Attack, Spell Saving Throw</supports>
 		<description>
 			<p>Your touch inflicts disease. Make a melee spell attack against a creature within your reach. On a hit, the target is poisoned.</p>
-			<p class="indent">At the end of each of the poisoned target’s turns, the target must make a Constitution saving throw. If the target succeeds on three of these saves, it is no longer poisoned, and the spell ends. If the target fails three of these saves, the target is no longer poisoned, but choose one of the diseases below. The target is subjected to the chosen disease for the spell’s duration.</p> 
+			<p class="indent">At the end of each of the poisoned target’s turns, the target must make a Constitution saving throw. If the target succeeds on three of these saves, it is no longer poisoned, and the spell ends. If the target fails three of these saves, the target is no longer poisoned, but choose one of the diseases below. The target is subjected to the chosen disease for the spell’s duration.</p>
 			<p class="indent">Since this spell induces a natural disease in its target, any effect that removes a disease or otherwise ameliorates a disease’s effects apply to it.</p>
 			<p class="indent"><b><i>Blinding Sickness.</i></b> Pain grips the creature’s mind, and its eyes turn milky white. The creature has disadvantage on Wisdom checks and Wisdom saving throws and is blinded.</p>
 			<p class="indent"><b><i>Filth Fever.</i></b> A raging fever sweeps through the creature’s body. The creature has disadvantage on Strength checks, Strength saving throws, and attack rolls that use Strength.</p>
@@ -1684,7 +1684,7 @@
 		<description>
 			<p>You take control of the weather within 5 miles of you for the duration. You must be outdoors to cast this spell. Moving to a place where you don’t have a clear path to the sky ends the spell early.</p>
 			<p class="indent">When you cast the spell, you change the current weather conditions, which are determined by the DM based on the climate and season. You can change precipitation, temperature, and wind. It takes 1d4 x 10 minutes for the new conditions to take effect. Once they do so, you can change the conditions again. When the spell ends, the weather gradually returns to normal.</p>
-			<p class="indent">When you change the weather conditions, find a current condition on the following tables and change its 
+			<p class="indent">When you change the weather conditions, find a current condition on the following tables and change its
 			stage by one, up or down. When changing the wind, you can change its direction.</p>
 			<table>
 				<thead><tr><td>Precipitation</td><td>—</td></tr></thead>
@@ -2337,7 +2337,7 @@
 			<li>50 hit points or fewer: deafened for 1 minute</li>
 			<li>40 hit points or fewer: deafened and blinded for 10 minutes</li>
 			<li>30 hit points or fewer: blinded, deafened, and stunned for 1 hour</li>
-			<li>20 hit points or fewer: killed instantly</li>		  
+			<li>20 hit points or fewer: killed instantly</li>
 		</ul>
 		<p class="indent">Regardless of its current hit points, a celestial, an elemental, a fey, or a fiend that fails its save is forced back to its plane of origin (if it isn’t there already) and can’t return to your current plane for 24 hours by any means short of a wish spell.</p>
 		</description>
@@ -2446,8 +2446,8 @@
 		<supports>Bard, Warlock, Wizard, Spell Saving Throw</supports>
 		<description>
 			<p>This spell shapes a creature’s dreams. Choose a creature known to you as the target of this spell. The target must be on the same plane of existence as you. Creatures that don’t sleep, such as elves, can’t be contacted by this spell. You, or a willing creature you touch, enters a trance state, acting as a messenger. While in the trance, the messenger is aware of his or her surroundings, but can’t take actions or move.</p>
-			<p class="indent">If the target is asleep, the messenger appears in the target’s dreams and can converse with the target as long as it remains asleep, through the duration of the spell. The messenger can also shape the environment of the dream, creating landscapes, objects, and other images. The messenger can emerge from the trance at any time, ending the effect of the spell early. The target recalls the dream perfectly upon waking. If the target is awake when you cast the spell, the messenger knows it, and can either end the trance (and the spell) or wait for the target to fall asleep, at which point the messenger appears in the target’s dreams.</p> 
-			<p class="indent">You can make the messenger appear monstrous and terrifying to the target. If you do, the messenger can deliver a message of no more than ten words and then the target must make a Wisdom saving throw. On a failed save, echoes of the phantasmal monstrosity spawn a nightmare that lasts the duration of the target’s sleep and prevents the target from gaining any benefit from that rest. In addition, when the target wakes up, it takes 3d6 psychic damage.</p> 
+			<p class="indent">If the target is asleep, the messenger appears in the target’s dreams and can converse with the target as long as it remains asleep, through the duration of the spell. The messenger can also shape the environment of the dream, creating landscapes, objects, and other images. The messenger can emerge from the trance at any time, ending the effect of the spell early. The target recalls the dream perfectly upon waking. If the target is awake when you cast the spell, the messenger knows it, and can either end the trance (and the spell) or wait for the target to fall asleep, at which point the messenger appears in the target’s dreams.</p>
+			<p class="indent">You can make the messenger appear monstrous and terrifying to the target. If you do, the messenger can deliver a message of no more than ten words and then the target must make a Wisdom saving throw. On a failed save, echoes of the phantasmal monstrosity spawn a nightmare that lasts the duration of the target’s sleep and prevents the target from gaining any benefit from that rest. In addition, when the target wakes up, it takes 3d6 psychic damage.</p>
 			<p class="indent">If you have a body part, lock of hair, clipping from a nail, or similar portion of the target’s body, the target makes its saving throw with disadvantage.</p>
 		</description>
 		<setters>
@@ -5987,7 +5987,7 @@
 				<tr><td>69-76</td><td>Halfling, stout</td></tr>
 				<tr><td>77-96</td><td>Human</td></tr>
 				<tr><td>97-00</td><td>Tiefling</td></tr>
-			</table>	   
+			</table>
 		 <p>The reincarnated creature recalls its former life and experiences. It retains the capabilities it had in its original form, except it exchanges its original race for the new one and changes its racial traits accordingly.</p>
 		</description>
 		<setters>
@@ -7695,7 +7695,7 @@
 				<li>You grant up to ten creatures that you can see resistance to a damage type you choose.</li>
 				<li>You grant up to ten creatures you can see immunity to a single spell or other magical effect for 8 hours. For instance, you could make yourself and all your companions immune to a lich’s life drain attack.</li>
 				<li>You undo a single recent event by forcing a reroll of any roll made within the last round (including your last turn). Reality reshapes itself to accommodate the new result. For example, a wish spell could undo an opponent’s successful save, a foe’s critical hit, or a friend’s failed save. You can force the reroll to be made with advantage or disadvantage, and you can choose whether to use the reroll or the original roll.</li>
-			</ul>  
+			</ul>
 			<p>You might be able to achieve something beyond the scope of the above examples. State your wish to the DM as precisely as possible. The DM has great latitude in ruling what occurs in such an instance; the greater the wish, the greater the likelihood that something goes wrong. This spell might simply fail, the effect you desire might only be partly achieved, or you might suffer some unforeseen consequence as a result of how you worded the wish. For example, wishing that a villain were dead might propel you forward in time to a period when that villain is no longer alive, effectively removing you from the game. Similarly, wishing for a legendary magic item or artifact might instantly transport you to the presence of the item’s current owner.</p>
 			<p class="indent">The stress of casting this spell to produce any effect other than duplicating another spell weakens you. After enduring that stress, each time you cast a spell until you finish a long rest, you take 1d10 necrotic damage per level of that spell. This damage can’t be reduced or prevented in any way. In addition, your Strength drops to 3, if it isn’t 3 or lower already, for 2d4 days. For each of those days that you spend resting and doing nothing more than light activity, your remaining recovery time decreases by 2 days. Finally, there is a 33 percent chance that you are unable to cast wish ever again if you suffer this stress.</p>
 		</description>

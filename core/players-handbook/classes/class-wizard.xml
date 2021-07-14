@@ -5,7 +5,7 @@
 		<description>The Wizard class from the Player’s Handbook.</description>
 		<author url="http://dnd.wizards.com/products/tabletop-games/rpg-products/rpg_playershandbook">Wizards of the Coast</author>
 		<update version="0.3.1">
-			<file name="class-wizard.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/core/players-handbook/classes/class-wizard.xml" />
+			<file name="class-wizard.xml" url="https://raw.githubusercontent.com/AuroraITA/elements/master/core/players-handbook/classes/class-wizard.xml" />
 		</update>
 	</info>
 
@@ -869,7 +869,7 @@
 			<set name="slot">misc</set>
 		</setters>
 		<rules>
-			<grant type="Proficiency" id="ID_PROFICIENCY_SAVINGTHROW_CONSTITUTION" />			
+			<grant type="Proficiency" id="ID_PROFICIENCY_SAVINGTHROW_CONSTITUTION" />
 		</rules>
 	</element>
 	<element name="Transmuter’s Stone, Acid Resistance" type="Magic Item" source="Player’s Handbook" id="ID_WOTC_PHB_MAGIC_ITEM_TRANSMUTERS_STONE_RESISTANCE_ACID">

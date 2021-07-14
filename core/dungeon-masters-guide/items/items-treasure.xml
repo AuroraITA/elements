@@ -3,10 +3,10 @@
 	<info>
 		<name>Treasure</name>
 		<update version="0.0.2">
-			<file name="items-treasure.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/core/dungeon-masters-guide/items/items-treasure.xml" />
+			<file name="items-treasure.xml" url="https://raw.githubusercontent.com/AuroraITA/elements/master/core/dungeon-masters-guide/items/items-treasure.xml" />
 		</update>
 	</info>
-	
+
 	<!-- 10 gp -->
 	<element name="Azurite" type="Item" source="Dungeon Master’s Guide" id="ID_WOTC_DMG_ITEM_GEMSTONE_AZURITE">
 		<description>
@@ -642,7 +642,7 @@
 			<set name="valuable">true</set>
 		</setters>
 	</element>
-	
+
 	<!-- 25gp -->
 	<element name="Silver Ewer" type="Item" source="Dungeon Master’s Guide" id="ID_WOTC_DMG_ITEM_ART_OBJECT_25GP_1">
 		<description>

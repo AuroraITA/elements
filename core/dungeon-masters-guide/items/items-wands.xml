@@ -3,10 +3,10 @@
 	<info>
 		<name>Wands</name>
 		<update version="0.0.5">
-			<file name="items-wands.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/core/dungeon-masters-guide/items/items-wands.xml" />
+			<file name="items-wands.xml" url="https://raw.githubusercontent.com/AuroraITA/elements/master/core/dungeon-masters-guide/items/items-wands.xml" />
 		</update>
 	</info>
-	
+
 	<element name="Wand of Magic Detection" type="Magic Item" source="Dungeon Master’s Guide" id="ID_WOTC_DMG_MAGIC_ITEM_WAND_OF_MAGIC_DETECTION">
 		<description>
 			<p>This wand has 3 charges. While holding it, you can expend 1 charge as an action to cast the <em>detect magic</em> spell from it. The wand regains 1d3 expended charges daily at dawn.</p>
@@ -170,11 +170,11 @@
 			<p class="indent">If the effect causes you to cast a spell from the wand, the spell’s save DC is 15. If the spell normally has a range expressed in feet, its range becomes 120 feet if it isn’t already.</p>
 			<p class="indent">If an effect covers an area, you must center the spell on and include the target. If an effect has multiple possible subjects, the GM randomly determines which ones are affected.</p>
 			<p class="indent">The wand regains 1d6 + 1 expended charges daily at dawn. If you expend the wand’s last charge, roll a d20. On a 1, the wand crumbles into dust and is destroyed.</p>
-			<table> 
+			<table>
 			<thead>
 				<tr><td>d100</td><td>Effect</td></tr>
-			</thead> 
-			<tbody> 
+			</thead>
+			<tbody>
 				<tr><td>01-05</td><td>You cast <em>slow</em>. </td></tr>
 				<tr><td>06-10</td><td>You cast <em>faerie fire</em>. </td></tr>
 				<tr><td>11-15</td><td>You are stunned until the start of your next turn, believing something awesome just happened.</td></tr>

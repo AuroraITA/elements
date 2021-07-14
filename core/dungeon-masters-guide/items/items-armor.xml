@@ -5,7 +5,7 @@
 		<description></description>
 		<author url="http://dnd.wizards.com/products/tabletop-games/rpg-products/rpg_playershandbook">Wizards of the Coast</author>
 		<update version="0.0.6">
-			<file name="items-armor.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/core/dungeon-masters-guide/items/items-armor.xml" />
+			<file name="items-armor.xml" url="https://raw.githubusercontent.com/AuroraITA/elements/master/core/dungeon-masters-guide/items/items-armor.xml" />
 		</update>
 	</info>
 
@@ -65,7 +65,7 @@
 		<rules>
 			<stat name="ac:armored:enhancement" value="3" bonus="enhancement" />
 		</rules>
-	</element>	
+	</element>
 	<element name="Adamantine Armor" type="Magic Item" source="Dungeon Master’s Guide" id="ID_WOTC_DMG_MAGIC_ITEM_ADAMANTINE_ARMOR">
 		<supports>Armor</supports>
 		<description>
@@ -115,7 +115,7 @@
 		<rules>
 			<!-- todo: no disadvantage or strength requirement -->
 		</rules>
-	</element>		
+	</element>
 	<element name="Armor of Resistance, Acid" type="Magic Item" source="Dungeon Master’s Guide" id="ID_WOTC_DMG_MAGIC_ITEM_ARMOR_OF_RESISTANCE_ACID">
 		<description>
 			<p>You have resistance to acid damage while you wear this armor.</p>
@@ -153,7 +153,7 @@
 		<rules>
 			<grant type="Condition" id="ID_INTERNAL_CONDITION_DAMAGE_RESISTANCE_COLD" />
 		</rules>
-	</element>	
+	</element>
 	<element name="Armor of Resistance, Fire" type="Magic Item" source="Dungeon Master’s Guide" id="ID_WOTC_DMG_MAGIC_ITEM_ARMOR_OF_RESISTANCE_FIRE">
 		<description>
 			<p>You have resistance to fire damage while you wear this armor.</p>
@@ -172,7 +172,7 @@
 		<rules>
 			<grant type="Condition" id="ID_INTERNAL_CONDITION_DAMAGE_RESISTANCE_FIRE" />
 		</rules>
-	</element>	
+	</element>
 	<element name="Armor of Resistance, Force" type="Magic Item" source="Dungeon Master’s Guide" id="ID_WOTC_DMG_MAGIC_ITEM_ARMOR_OF_RESISTANCE_FORCE">
 		<description>
 			<p>You have resistance to force damage while you wear this armor.</p>
@@ -191,7 +191,7 @@
 		<rules>
 			<grant type="Condition" id="ID_INTERNAL_CONDITION_DAMAGE_RESISTANCE_FORCE" />
 		</rules>
-	</element>	
+	</element>
 	<element name="Armor of Resistance, Lightning" type="Magic Item" source="Dungeon Master’s Guide" id="ID_WOTC_DMG_MAGIC_ITEM_ARMOR_OF_RESISTANCE_LIGHTNING">
 		<description>
 			<p>You have resistance to lightning damage while you wear this armor.</p>
@@ -210,7 +210,7 @@
 		<rules>
 			<grant type="Condition" id="ID_INTERNAL_CONDITION_DAMAGE_RESISTANCE_LIGHTNING" />
 		</rules>
-	</element>	
+	</element>
 	<element name="Armor of Resistance, Necrotic" type="Magic Item" source="Dungeon Master’s Guide" id="ID_WOTC_DMG_MAGIC_ITEM_ARMOR_OF_RESISTANCE_NECROTIC">
 		<description>
 			<p>You have resistance to necrotic damage while you wear this armor.</p>
@@ -229,7 +229,7 @@
 		<rules>
 			<grant type="Condition" id="ID_INTERNAL_CONDITION_DAMAGE_RESISTANCE_NECROTIC" />
 		</rules>
-	</element>	
+	</element>
 	<element name="Armor of Resistance, Poison" type="Magic Item" source="Dungeon Master’s Guide" id="ID_WOTC_DMG_MAGIC_ITEM_ARMOR_OF_RESISTANCE_POISON">
 		<description>
 			<p>You have resistance to poison damage while you wear this armor.</p>
@@ -248,7 +248,7 @@
 		<rules>
 			<grant type="Condition" id="ID_INTERNAL_CONDITION_DAMAGE_RESISTANCE_POISON" />
 		</rules>
-	</element>	
+	</element>
 	<element name="Armor of Resistance, Psychic" type="Magic Item" source="Dungeon Master’s Guide" id="ID_WOTC_DMG_MAGIC_ITEM_ARMOR_OF_RESISTANCE_PSYCHIC">
 		<description>
 			<p>You have resistance to psychic damage while you wear this armor.</p>
@@ -267,7 +267,7 @@
 		<rules>
 			<grant type="Condition" id="ID_INTERNAL_CONDITION_DAMAGE_RESISTANCE_PSYCHIC" />
 		</rules>
-	</element>	
+	</element>
 	<element name="Armor of Resistance, Radiant" type="Magic Item" source="Dungeon Master’s Guide" id="ID_WOTC_DMG_MAGIC_ITEM_ARMOR_OF_RESISTANCE_RADIANT">
 		<description>
 			<p>You have resistance to radiant damage while you wear this armor.</p>
@@ -286,7 +286,7 @@
 		<rules>
 			<grant type="Condition" id="ID_INTERNAL_CONDITION_DAMAGE_RESISTANCE_RADIANT" />
 		</rules>
-	</element>	
+	</element>
 	<element name="Armor of Resistance, Thunder" type="Magic Item" source="Dungeon Master’s Guide" id="ID_WOTC_DMG_MAGIC_ITEM_ARMOR_OF_RESISTANCE_THUNDER">
 		<description>
 			<p>You have resistance to thunder damage while you wear this armor.</p>
@@ -340,7 +340,7 @@
 		</setters>
 		<rules>
 			<stat name="ac:armored:enhancement" value="1" bonus="enhancement" />
-			<grant type="Proficiency" id="ID_PROFICIENCY_ARMOR_PROFICIENCY_CHAIN_SHIRT" />			
+			<grant type="Proficiency" id="ID_PROFICIENCY_ARMOR_PROFICIENCY_CHAIN_SHIRT" />
 		</rules>
 	</element>
 	<element name="Glamoured Studded Leather" type="Magic Item" source="Dungeon Master’s Guide" id="ID_WOTC_DMG_MAGIC_ITEM_GLAMOURED_STUDDED_LEATHER">
@@ -855,7 +855,7 @@
 			<stat name="ac:shield" value="3" bonus="enhancement" />
 		</rules>
 	</element>
-	
+
 	<element name="Sentinel Shield" type="Magic Item" source="Dungeon Master’s Guide" id="ID_WOTC_DMG_MAGIC_ITEM_SENTINEL_SHIELD">
 		<description>
 			<p>While holding this shield, you have advantage on initiative rolls and Wisdom (Perception) checks. The shield is emblazoned with a symbol of an eye.</p>

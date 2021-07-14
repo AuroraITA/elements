@@ -5,7 +5,7 @@
 		<description>The Warlock class from the Player’s Handbook.</description>
 		<author url="http://dnd.wizards.com/products/tabletop-games/rpg-products/rpg_playershandbook">Wizards of the Coast</author>
 		<update version="0.3.7">
-			<file name="class-warlock.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/core/players-handbook/classes/class-warlock.xml" />
+			<file name="class-warlock.xml" url="https://raw.githubusercontent.com/AuroraITA/elements/master/core/players-handbook/classes/class-warlock.xml" />
 		</update>
 	</info>
 
@@ -230,7 +230,7 @@
 			<h5 class="caption">PACT OF THE TOME</h5>
 			<p>Your patron gives you a grimoire called a Book of Shadows. When you gain this feature, choose three cantrips from any class’s spell list. While the book is on your person, you can cast those cantrips at will. They don’t count against your number of cantrips known.</p>
 			<p class="indent">If you lose your Book of Shadows, you can perform a 1-hour ceremony to receive a replacement from your patron. This ceremony can be performed during a short or long rest, and it destroys the previous book. The book turns to ash when you die.</p>
-			<h5 class="caption">PACT OF THE BLADE</h5>			
+			<h5 class="caption">PACT OF THE BLADE</h5>
 			<p>You can use your action to create a pact weapon in your empty hand. You can choose the form that this melee weapon takes each time you create it. You are proficient with it while you wield it. This weapon counts as magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage.</p>
 			<p class="indent">Your pact weapon disappears if it is more than 5 feet away from you for 1 minute or more. It also disappears if you use this feature again, if you dismiss the weapon (no action required), or if you die.</p>
 			<p class="indent">You can transform one magic weapon into your pact weapon by performing a special ritual while you hold the weapon. You perform the ritual over the course of 1 hour, which can be done during a short rest. You can then dismiss the weapon, shunting it into an extradimensional space, and it appears whenever you create your pact weapon thereafter. You can’t affect an artifact or a sentient weapon in this way. The weapon ceases being your pact weapon if you die, if you perform the 1-hour ritual on a different weapon, or if you use a 1-hour ritual to break your bond to it. The weapon appears at your feet if it is in the extradimensional space when the bond breaks.</p>
@@ -302,7 +302,7 @@
 			<p class="indent">If you lose your Book of Shadows, you can perform a 1-hour ceremony to receive a replacement from your patron. This ceremony can be performed during a short or long rest, and it destroys the previous book. The book turns to ash when you die.</p>
 		</description>
 		<sheet>
-			<description>Your patron gives you a grimoire called a Book of Shadows. 
+			<description>Your patron gives you a grimoire called a Book of Shadows.
 			If you lose it, you can perform a 1-hour ceremony to receive a replacement from your patron. This ceremony can be performed during a short or long rest, and it destroys the previous book. The book turns to ash when you die.</description>
 		</sheet>
 		<rules>

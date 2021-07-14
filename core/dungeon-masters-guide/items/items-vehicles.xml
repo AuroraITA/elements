@@ -3,10 +3,10 @@
 	<info>
 		<name>Vehicles</name>
 		<update version="0.0.3">
-			<file name="items-vehicles.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/core/ungeon-masters-guide/items/items-vehicles.xml" />
+			<file name="items-vehicles.xml" url="https://raw.githubusercontent.com/AuroraITA/elements/master/core/ungeon-masters-guide/items/items-vehicles.xml" />
 		</update>
 	</info>
-	
+
 	<element name="Airship" type="Item" source="Dungeon Master’s Guide" id="ID_WOTC_DMG_ITEM_AIRSHIP">
 		<supports>Airborne</supports>
 		<description>
@@ -22,7 +22,7 @@
 			<set name="category">Mounts &amp; Vehicles</set>
 			<set name="cost" currency="gp">20000</set>
 			<set name="weight" lb="0" excludeEncumbrance="true">0 lb.</set>
-			<set name="type">Vehicle</set>			
+			<set name="type">Vehicle</set>
 			<!-- <set name="speed">8</set>
 			<set name="crew">10</set>
 			<set name="passengers">20</set>
@@ -31,7 +31,7 @@
 			<set name="hp">300</set>
 			<set name="threshold">–</set> -->
 		</setters>
-	</element> 
+	</element>
 
 	<!-- p119 -->
 

@@ -4,7 +4,7 @@
 		<name>Dwarf</name>
 		<author url="http://dnd.wizards.com/products/tabletop-games/rpg-products/rpg_playershandbook">Wizards of the Coast</author>
 		<update version="0.2.9">
-			<file name="race-dwarf.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/core/players-handbook/races/race-dwarf.xml" />
+			<file name="race-dwarf.xml" url="https://raw.githubusercontent.com/AuroraITA/elements/master/core/players-handbook/races/race-dwarf.xml" />
 		</update>
 	</info>
 
@@ -33,7 +33,7 @@
 				<li><strong>Clan Names:</strong> Balderk, Battlehammer, Brawnanvil, Dankil, Fireforge, Frostbeard, Gorunn, Holderhek, Ironfist, Loderr, Lutgehr, Rumnaheim, Strakeln, Torunn, Ungart</li>
 			</ul>
 			<h4>DWARF TRAITS</h4>
-			<p>Your dwarf character has an assortment of inborn abilities, part and parcel of dwarven nature.</p>			
+			<p>Your dwarf character has an assortment of inborn abilities, part and parcel of dwarven nature.</p>
 			<p class="indent"><strong><em>Ability Score Increase.</em></strong> Your Constitution score increases by 2.</p>
 			<p class="indent"><strong><em>Age.</em></strong> Dwarves mature at the same rate as humans, but they’re considered young until they reach the age of 50. On average, they live about 350 years.</p>
 			<p class="indent"><strong><em>Alignment.</em></strong> Most dwarves are lawful, believing firmly in the benefits of a well-ordered society. They tend toward good as well, with a strong sense of fair play and a belief that everyone deserves to share in the benefits of a just order.</p>

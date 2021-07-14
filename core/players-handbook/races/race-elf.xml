@@ -3,7 +3,7 @@
 	<info>
 		<name>Elf</name>
 		<update version="0.2.2">
-			<file name="race-elf.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/core/players-handbook/races/race-elf.xml" />
+			<file name="race-elf.xml" url="https://raw.githubusercontent.com/AuroraITA/elements/master/core/players-handbook/races/race-elf.xml" />
 		</update>
 	</info>
 
@@ -128,7 +128,7 @@
 			<grant type="Racial Trait" id="ID_RACIAL_TRAIT_CANTRIP" />
 			<grant type="Racial Trait" id="ID_RACIAL_TRAIT_EXTRA_LANGUAGE" />
 		</rules>
-	</element> 	
+	</element>
 	<element name="Elf Weapon Training" type="Racial Trait" source="Player’s Handbook" id="ID_RACIAL_TRAIT_ELF_WEAPON_TRAINING">
 		<description>
 			<p>You have proficiency with the longsword, shortsword, shortbow, and longbow.</p>

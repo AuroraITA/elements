@@ -5,7 +5,7 @@
 		<description>The Paladin class from the Player’s Handbook.</description>
 		<author url="http://dnd.wizards.com/products/tabletop-games/rpg-products/rpg_playershandbook">Wizards of the Coast</author>
 		<update version="0.3.1">
-			<file name="class-paladin.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/core/players-handbook/classes/class-paladin.xml" />
+			<file name="class-paladin.xml" url="https://raw.githubusercontent.com/AuroraITA/elements/master/core/players-handbook/classes/class-paladin.xml" />
 		</update>
 	</info>
 
@@ -160,7 +160,7 @@
 			<p class="indent">This feature has no effect on undead and constructs.</p>
 		</description>
 		<sheet action="Action" usage="{{lay on hands:hp pool}}/Long Rest">
-			<description>You can touch a creature and draw power from the pool to restore a number of hp to that creature, up to the maximum amount remaining in your pool. 
+			<description>You can touch a creature and draw power from the pool to restore a number of hp to that creature, up to the maximum amount remaining in your pool.
 			You can expend 5 hp from your pool of healing to cure the target of one disease or neutralize one poison affecting it.
 			This feature has no effect on undead and constructs.</description>
 		</sheet>
@@ -381,7 +381,7 @@
 				<tr><td>9th</td><td><em>beacon of hope, dispel magic</em></td></tr>
 				<tr><td>13th</td><td><em>freedom of movement, guardian of faith</em></td></tr>
 				<tr><td>17th</td><td><em>commune, flame strike</em></td></tr>
-			</table>      
+			</table>
 		</description>
 		<sheet display="false" />
 		<rules>
