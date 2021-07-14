@@ -7,10 +7,10 @@
 		</update>
 	</info>
 
-	<element name="Elf" type="Race" source="Player’s Handbook" id="ID_RACE_ELF">
+	<element name="Elfo" type="Race" source="Player’s Handbook" id="ID_RACE_ELF">
 		<description>
 			<p class="flavor">Gli elfi sono un popolo magico dalla grazia ultraterrena: pur vivendo nel mondo, non ne fanno parte completamente. Vivono in luoghi di bellezza eterea, al centro di foreste millenarie o all'interno di svettanti torri argentate, risplendenti di luce fatata, dove l'aria riverbera di dolci melodie e la brezza porta soavi fragranze. Gli elfi amano la natura e la magia, l'arte e l'artigianato, la musica e la poesia, e tutto ciò che di buono esiste al mondo.</p>
-			<h4>SLENDER AND GRACEFUL</h4>
+			<h4>SNELLI E AGGRAZIATI</h4>
 			<p>With their unearthly grace and fine features, elves appear hauntingly beautiful to humans and members of many other races. They are slightly shorter than humans on average, ranging from well under 5 feet tall to just over 6 feet. They are more slender than humans, weighing only 100 to 145 pounds. Males and females are about the same height, and males are only marginally heavier than females.</p>
 			<p class="indent">Elves’ coloration encompasses the normal human range and also includes skin in shades of copper, bronze, and almost bluish-white, hair of green or blue, and eyes like pools of liquid gold or silver. Elves have no facial and little body hair. They favor elegant clothing in bright colors, and they enjoy simple yet lovely jewelry.</p>
 			<h4>A TIMELESS PERSPECTIVE</h4>
@@ -30,19 +30,19 @@
 			<span class="feature">Female Adult Names:</span>Adrie, Althaea, Anastrianna, Andraste, Antinua, Bethrynna, Birel, Caelynn, Drusilia, Enna, Felosial, Ielenia, Jelenneth, Keyleth, Leshanna, Lia, Meriele, Mialee, Naivara, Quelenna, Quillathe, Sariel, Shanairra, Shava, Silaqui, Theirastra, Thia, Vadania, Valanthe, Xanaphia<br />
 			<span class="feature">Family Names (Common Translations):</span>Amakiir (Gemflower), Amastacia (Starflower), Galanodel (Moonwhisper), Holimion (Diamonddew), Ilphelkiir (Gemblossom), Liadon (Silverfrond), Meliamne (Oakenheel), Nai'lo (Nightbreeze), Siannodel (Moonbrook), Xiloscient (Goldpetal)
 			</p>
-			<h4>ELF TRAITS</h4>
-			<p>Your elf character has a variety of natural abilities, the result of thousands of years of elven refinement.</p>
-			<p class="indent"><strong><em>Ability Score Increase.</em></strong> Your Dexterity score increases by 2.</p>
-			<p class="indent"><strong><em>Age.</em></strong> Although elves reach physical maturity at about the same age as humans, the elven understanding of adulthood goes beyond physical growth to encompass worldly experience. An elf typically claims adulthood and an adult name around the age of 100 and can live to be 750 years old.</p>
-			<p class="indent"><strong><em>Alignment.</em></strong> Elves love freedom, variety, and selfexpression, so they lean strongly toward the gentler aspects of chaos. They value and protect others'freedom as well as their own, and they are more often good than not. The drow are an exception; their exile into the Underdark has made them vicious and dangerous. Drow are more often evil than not.</p>
-			<p class="indent"><strong><em>Size.</em></strong> Elves range from under 5 to over 6 feet tall and have slender builds. Your size is Medium.</p>
-			<p class="indent"><strong><em>Speed.</em></strong> Your base walking speed is 30 feet.</p>
-			<p class="indent"><strong><em>Darkvision.</em></strong> Accustomed to twilit forests and the night sky, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray.</p>
-			<p class="indent"><strong><em>Keen Senses.</em></strong> You have proficiency in the Perception skill.</p>
-			<p class="indent"><strong><em>Fey Ancestry.</em></strong> You have advantage on saving throws against being charmed, and magic can’t put you to sleep.</p>
-			<p class="indent"><strong><em>Trance.</em></strong> Elves don’t need to sleep. Instead, they meditate deeply, remaining semiconscious, for 4 hours a day. (The Common word for such meditation is “trance.”) While meditating, you can dream after a fashion; such dreams are actually mental exercises that have become reflexive through years of practice. After resting in this way, you gain the same benefit that a human does from 8 hours of sleep.</p>
-			<p class="indent"><strong><em>Languages.</em></strong> You can speak, read, and write Common and Elvish. Elvish is fluid, with subtle intonations and intricate grammar. Elven literature is rich and varied, and their songs and poems are famous among other races. Many bards learn their language so they can add Elvish ballads to their repertoires.</p>
-			<p class="indent"><strong><em>Subrace.</em></strong> Ancient divides among the elven people resulted in three main subraces: high elves, wood elves, and dark elves, who are commonly called drow. Choose one of these subraces. In some worlds, these subraces are divided still further (such as the sun elves and moon elves of the Forgotten Realms), so if you wish, you can choose a narrower subrace.</p>
+			<h4>TRATTI DEGLI ELFI</h4>
+			<p>Un personaggio elfo è dotato di una vasta gamma di capacità naturali, affinate dal suo popolo nel corso di interi millenni.</p>
+			<p class="indent"><strong><em>Incremento dei Punteggi di Caratteristica</em></strong> Il punteggio di Destrezza di un elfo aumenta di 2.</p>
+			<p class="indent"><strong><em>Età.</em></strong> Anche se gli elfi raggiungono la maturità fisica più o meno alla stessa età degli umani, la visione elfica della maturità trascende l'aspetto puramente biologico e comprende un'esperienza più ampia del mondo. Gli elfi generalmente si dichiarano adulti e assumono il loro nome da adulto intorno all'età di 100 anni, e possono vivere fino a 750 anni. </p>
+			<p class="indent"><strong><em>Allineamento.</em></strong> Gli elfi amano la libertà, la varietà e l'espressione individuale, cosa che li avvicina agli aspetti più positivi del caos. Apprezzano e proteggono la libertà degli altri quanto la propria, e per buona parte tendono al bene piuttosto che al male. I drow costituiscono un'eccezione: il loro esilio nell'Underdark li ha resi malevoli e pericolosi. I drow tendono per la maggior parte al male piuttosto che al bene. </p>
+			<p class="indent"><strong><em>Taglia.</em></strong> Un elfo ha un'altezza che va da poco meno di 1,5 a poco più 1,8 metri e una struttura snella. È una creatura di taglia Media. </p>
+			<p class="indent"><strong><em>Velocità.</em></strong> La velocità base sul terreno di un elfo è di 9 metri.</p>
+			<p class="indent"><strong><em>Scurovisione.</em></strong> Un elfo, abituato a muoversi nella penombra del sottobosco e alla luce della luna, beneficia di una vista superiore nell'oscurità e nelle condizioni di luce fioca. Un elfo in condizioni di luce fioca può vedere fino a 18 metri come se si trovasse in condizioni di luce intensa e nell'oscurità come se si trovasse in luce fioca. Nell'oscurità non è in grado di discernere i colori, ma solo le tonalità di grigio. </p>
+			<p class="indent"><strong><em>Sensi Acuti.</em></strong> Un elfo ha competenza nell'abilità Percezione.</p>
+			<p class="indent"><strong><em>Retaggio Fatato.</em></strong> . Un elfo dispone di vantaggio ai tiri salvezza per non essere affascinato e non può essere addormentato tramite la magia.</p>
+			<p class="indent"><strong><em>Trance.</em></strong> . Gli elfi non hanno bisogno di dormire. Anziché dormire entrano per 4 ore al giorno in una proronda meditazione e in uno stato semicosciente. (Il termine in Comune per tale meditazione è "trance".) Durante questa meditazione, l'elfo entra in una sorta di stato sognante, che in realtà non è altro che una serie di esercizi mentali che anni di pratica hanno reso automatici. Dopo tale periodo, l'elfo ottiene gli stessi benefici di 8 ore di sonno per un umano.</p>
+			<p class="indent"><strong><em>Linguaggi.</em></strong> Gli elfi sanno parlare, leggere e scrivere in Comune e in Elfico. L'Elfico è una lingua fluida, dalle tonalità sottili e dalla grammatica complessa. La letteratura elfica è ricca e variegata: i loro canti e i loro poemi sono celebri anche presso le altre razze. Molti bardi imparano la lingua degli elfi per poter aggiungere le ballate elfiche al proprio repertorio.</p>
+			<p class="indent"><strong><em>Sottorazze.</em></strong>  Antiche divisioni in seno al popolo elfico hanno prodotto tre grandi sottorazze: gli elfi alti, gli elfi dei boschi e gli elfi oscuri, comunemente chiamati drow. Il giocatore deve scegliere una di queste sottorazze per il proprio personaggio. In alcuni mondi, questi gruppi sono ulteriormente suddivisi (come gli elfi del sole e gli elfi della luna in Forgotten Realms), quindi, se il giocatore desidera, pub scegliere uno di quei gruppi più ristretti.</p>
 		</description>
 		<sheet display="false" />
 		<setters>
@@ -51,8 +51,8 @@
 			<set name="names" type="child">Ara, Bryn, Del, Eryn, Faen, Innil. Lael, Mella, Naill, Naeris, Phann, Rael, Rinn, Sai, Syllin, Thia, Vall</set>
 			<set name="names" type="family">Amakiir, Amastacia, Galanodel, Holimion, Ilphelkiir, Liadon, Meliamne, Nai'lo, Siannodel, Xiloscient</set>
 			<set name="names-format">{{name}} {{family}}</set>
-			<set name="height" modifier="2d10">4'6"</set>
-			<set name="weight" modifier="1d4">90 lb.</set>
+			<set name="height" modifier="2d10">135 cm</set>
+			<set name="weight" modifier="1d4">45 kg</set>
 		</setters>
 		<rules>
 			<stat name="dexterity" value="2" requirements="!ID_UA_PSK_GRANTS_ELF_SUBRACE,!ID_WOTC_TCOE_OPTION_CUSTOMIZED_ASI" />
@@ -69,57 +69,57 @@
 			<grant type="Racial Trait" id="ID_RACIAL_TRAIT_ELVEN_SUBRACE" />
 		</rules>
 	</element>
-	<element name="Keen Senses" type="Racial Trait" source="Player’s Handbook" id="ID_RACIAL_TRAIT_KEEN_SENSES">
+	<element name="Sensi Acuti" type="Racial Trait" source="Player’s Handbook" id="ID_RACIAL_TRAIT_KEEN_SENSES">
 		<description>
-			<p>You have proficiency in the Perception skill.</p>
+			<p>Un elfo ha competenza nell'abilità Percezione.</p>
 		</description>
 		<sheet display="false">
-			<description>You have proficiency in the Perception skill.</description>
+			<description>Un elfo ha competenza nell'abilità Percezione.</description>
 		</sheet>
 		<rules>
 			<grant type="Proficiency" id="ID_PROFICIENCY_SKILL_PERCEPTION" requirements="!ID_WOTC_TCOE_OPTION_CUSTOMIZED_PROFICIENCY" />
 			<select type="Proficiency" name="Customized Skill Proficiency" supports="Skill" requirements="ID_WOTC_TCOE_OPTION_CUSTOMIZED_PROFICIENCY" />
 		</rules>
 	</element>
-	<element name="Fey Ancestry" type="Racial Trait" source="Player’s Handbook" id="ID_RACIAL_TRAIT_FEY_ANCESTRY">
+	<element name="Retaggio Fatato" type="Racial Trait" source="Player’s Handbook" id="ID_RACIAL_TRAIT_FEY_ANCESTRY">
 		<description>
-			<p>You have advantage on saving throws against being charmed, and magic can’t put you to sleep.</p>
+			<p>Un elfo dispone di vantaggio ai tiri salvezza per non essere affascinato e non può essere addormentato tramite la magia.</p>
 		</description>
 		<sheet>
-			<description>Advantage on saving throws against being charmed, and magic can’t put you to sleep.</description>
+			<description>Un elfo dispone di vantaggio ai tiri salvezza per non essere affascinato e non può essere addormentato tramite la magia.</description>
 		</sheet>
 	</element>
 	<element name="Trance" type="Racial Trait" source="Player’s Handbook" id="ID_RACIAL_TRAIT_TRANCE">
 		<description>
-			<p>Elves don’t need to sleep. Instead, they meditate deeply, remaining semiconscious, for 4 hours a day. (The Common word for such meditation is “trance.”) While meditating, you can dream after a fashion; such dreams are actually mental exercises that have become reflexive through years of practice. After resting in this way, you gain the same benefit that a human does from 8 hours of sleep.</p>
+			<p>Gli elfi non hanno bisogno di dormire. Anziché dormire entrano per 4 ore al giorno in una proronda meditazione e in uno stato semicosciente. (Il termine in Comune per tale meditazione è "trance".) Durante questa meditazione, l'elfo entra in una sorta di stato sognante, che in realtà non è altro che una serie di esercizi mentali che anni di pratica hanno reso automatici. Dopo tale periodo, l'elfo ottiene gli stessi benefici di 8 ore di sonno per un umano.</p>
 		</description>
 		<sheet>
-			<description>Elves don’t need to sleep. Instead, they meditate deeply, remaining semiconscious, for 4 hours a day.</description>
+			<description>Gli elfi non hanno bisogno di dormire. Anziché dormire entrano per 4 ore al giorno in una proronda meditazione e in uno stato semicosciente.</description>
 		</sheet>
 	</element>
-	<element name="Elven Subrace" type="Racial Trait" source="Player’s Handbook" id="ID_RACIAL_TRAIT_ELVEN_SUBRACE">
+	<element name="Sottorazze degli Elfi" type="Racial Trait" source="Player’s Handbook" id="ID_RACIAL_TRAIT_ELVEN_SUBRACE">
 		<description>
-			<p>Ancient divides among the elven people resulted in three main subraces: high elves, wood elves, and dark elves, who are commonly called drow. Choose one of these subraces. In some worlds, these subraces are divided still further (such as the sun elves and moon elves of the Forgotten Realms), so if you wish, you can choose a narrower subrace.</p>
+			<p>Antiche divisioni in seno al popolo elfico hanno prodotto tre grandi sottorazze: gli elfi alti, gli elfi dei boschi e gli elfi oscuri, comunemente chiamati drow. Il giocatore deve scegliere una di queste sottorazze per il proprio personaggio. In alcuni mondi, questi gruppi sono ulteriormente suddivisi (come gli elfi del sole e gli elfi della luna in Forgotten Realms), quindi, se il giocatore desidera, pub scegliere uno di quei gruppi più ristretti.</p>
 		</description>
 		<sheet display="false" />
 		<rules>
-			<select type="Sub Race" name="Elven Subrace" supports="Elf" />
+			<select type="Sub Race" name="Sottorazze degli Elfi" supports="Elf" />
 		</rules>
 	</element>
 
-	<element name="High Elf" type="Sub Race" source="Player’s Handbook" id="ID_SUB_RACE_HIGH_ELF">
+	<element name="Elfo Alto" type="Sub Race" source="Player’s Handbook" id="ID_SUB_RACE_HIGH_ELF">
 		<supports>Elf</supports>
 		<description>
-			<p>As a high elf, you have a keen mind and a mastery of at least the basics of magic. In many of the worlds of D&amp;D, there are two kinds of high elves. One type (which includes the gray elves and valley elves of Greyhawk, the Silvanesti of Dragonlance, and the sun elves of the Forgotten Realms) is haughty and reclusive, believing themselves to be superior to non-elves and even other elves. The other type (including the high elves of Greyhawk. the Qualinesti of Dragonlance, and the moon elves of the Forgotten Realms) are more common and more friendly, and often encountered among humans and other races. The sun elves of Faerûn (also called gold elves or sunrise elves) have bronze skin and hair of copper, black, or golden blond. Their eyes are golden, silver, or black. Moon elves (also called silver elves or gray elves) are much paler, with alabaster skin sometimes tinged with blue. They often have hair of silver-white, black, or blue, but various shades of blond, brown, and red are not uncommon. Their eyes are blue or green and flecked with gold.</p>
-			<p class="indent"><strong><em>Ability Score Increase.</em></strong> Your Intelligence score increases by 1.</p>
-			<p class="indent"><strong><em>Elf Weapon Training.</em></strong> You have proficiency with the longsword, shortsword, shortbow, and longbow.</p>
-			<p class="indent"><strong><em>Cantrip.</em></strong> You know one cantrip of your choice from the wizard spell list. Intelligence is your spellcasting ability for it.</p>
-			<p class="indent"><strong><em>Extra Language.</em></strong> You can speak, read, and write one extra language of your choice.</p>
+			<p> Un elfo alto è dotato di una mente brillante e della padronanza di alcune forme basilari di magia. In molti mondi di DnD esistono due tipologie di elfi alti. Uno (che comprende gli elfi grigi e gli elfi delle valli di Greyhawk, i Silvanesti di Dragonlance e gli elfi del sole di Forgotten Realms), che si considera superiore alle altre razze e anche agli altri elfi, è altezzoso e si tiene a distanza da tutti gli altri. L'altro tipo {che comprende gli elfi alti di Greyhawk, i Qualinesti di Dragonlance e gli elfi della luna di Forgotten Realms}, è più diffuso e più amichevole, e i suoi membri si mescolano più facilmente agli umani e alle altre razze. Gli elfi del sole di Faerun (chiamati anche elfi dorati o elfi dell'alba) hanno la pelle color bronzo e i capelli ramati, neri o biondo oro. I loro occhi sono dorati,argentei o neri. Gli elfi della luna (chiamati anche elfi d'argento o elfi grigi), sono molto più pallidi, hanno la pelle color alabastro, a volte tendente all'azzurro.</p>
+			<p class="indent"><strong><em>Incremento dei Punteggi Caratteristica.</em></strong> Il punteggio di Intelligenza di un elfo alto aumenta di 1.</p>
+			<p class="indent"><strong><em>Addestramento nelle Armi Elfiche.</em></strong> Un elfo alto ha competenza nelle spade corte, nelle spade lunghe, negli archi corti e negli archi lunghi. </p>
+			<p class="indent"><strong><em>Trucchetto.</em></strong> Un elfo alto conosce un trucchetto scelto dalla lista degli incantesimi da mago. La caratteristica da incantatore per questo trucchetto è Intelligenza.</p>
+			<p class="indent"><strong><em>Linguaggio Extra.</em></strong> Un elfo alto sa parlare, leggere e scrivere un linguaggio extra a sua scelta.</p>
 		</description>
 		<sheet display="false" />
 		<setters>
-			<set name="height" modifier="2d10">4'6"</set>
-			<set name="weight" modifier="1d4">90 lb.</set>
+			<set name="height" modifier="2d10">135 cm</set>
+			<set name="weight" modifier="1d4">45 kg</set>
 		</setters>
 		<rules>
 			<stat name="intelligence" value="1" requirements="!ID_WOTC_TCOE_OPTION_CUSTOMIZED_ASI" />
@@ -129,12 +129,12 @@
 			<grant type="Racial Trait" id="ID_RACIAL_TRAIT_EXTRA_LANGUAGE" />
 		</rules>
 	</element>
-	<element name="Elf Weapon Training" type="Racial Trait" source="Player’s Handbook" id="ID_RACIAL_TRAIT_ELF_WEAPON_TRAINING">
+	<element name="Addestramento nelle Armi Elfiche" type="Racial Trait" source="Player’s Handbook" id="ID_RACIAL_TRAIT_ELF_WEAPON_TRAINING">
 		<description>
-			<p>You have proficiency with the longsword, shortsword, shortbow, and longbow.</p>
+			<p>Un elfo alto ha competenza nelle spade corte, nelle spade lunghe, negli archi corti e negli archi lunghi.</p>
 		</description>
 		<sheet display="false">
-			<description>You have proficiency with the longsword, shortsword, shortbow, and longbow.</description>
+			<description>Un elfo alto ha competenza nelle spade corte, nelle spade lunghe, negli archi corti e negli archi lunghi.</description>
 		</sheet>
 		<rules>
 			<grant type="Proficiency" id="ID_PROFICIENCY_WEAPON_PROFICIENCY_LONGSWORD" requirements="!ID_WOTC_TCOE_OPTION_CUSTOMIZED_PROFICIENCY" />
@@ -145,20 +145,20 @@
 			<select type="Proficiency" name="Simple/Martial Weapon or Tool (Elf Weapon Training)" number="3" supports="Weapon||Tool" requirements="ID_WOTC_TCOE_OPTION_CUSTOMIZED_PROFICIENCY" />
 		</rules>
 	</element>
-	<element name="Cantrip" type="Racial Trait" source="Player’s Handbook" id="ID_RACIAL_TRAIT_CANTRIP">
+	<element name="Trucchetto" type="Racial Trait" source="Player’s Handbook" id="ID_RACIAL_TRAIT_CANTRIP">
 		<description>
-			<p>You know one cantrip of your choice from the wizard spell list. Intelligence is your spellcasting ability for it.</p>
+			<p>Un elfo alto conosce un trucchetto scelto dalla lista degli incantesimi da mago. La caratteristica da incantatore per questo trucchetto è Intelligenza.</p>
 		</description>
 		<sheet display="false">
-			<description>You know one cantrip of your choice from the wizard spell list. Intelligence is your spellcasting ability for it.</description>
+			<description> Un elfo alto conosce un trucchetto scelto dalla lista degli incantesimi da mago. La caratteristica da incantatore per questo trucchetto è Intelligenza.</description>
 		</sheet>
 		<rules>
 			<select type="Spell" name="Wizard Cantrip (High Elf)" supports="Wizard&amp;&amp;0" />
 		</rules>
 	</element>
-	<element name="Extra Language" type="Racial Trait" source="Player’s Handbook" id="ID_RACIAL_TRAIT_EXTRA_LANGUAGE">
+	<element name="Linguaggio Extra" type="Racial Trait" source="Player’s Handbook" id="ID_RACIAL_TRAIT_EXTRA_LANGUAGE">
 		<description>
-			<p>You can speak, read, and write one extra language of your choice.</p>
+			<p>Un elfo alto sa parlare, leggere e scrivere un linguaggio extra a sua scelta.</p>
 		</description>
 		<sheet display="false" />
 		<rules>
@@ -166,19 +166,19 @@
 		</rules>
 	</element>
 
-	<element name="Wood Elf" type="Sub Race" source="Player’s Handbook" id="ID_SUB_RACE_WOOD_ELF">
+	<element name="Elfo dei Boschi" type="Sub Race" source="Player’s Handbook" id="ID_SUB_RACE_WOOD_ELF">
 		<supports>Elf</supports>
 		<description>
-			<p>As a wood elf, you have keen senses and intuition, and your fleet feet carry you quickly and stealthily through your native forests. This category includes the wild elves (grugach) of Greyhawk and the Kagonesti of Dragonlance, as well as the races called wood elves in Greyhawk and the Forgotten Realms. In Faerûn, wood elves (also called wild elves, green elves, or forest elves) are reclusive and distrusting of non-elves. Wood elves’ skin tends to be copperish in hue, sometimes with traces of green. Their hair tends toward browns and blacks, but it is occasionally blond or copper-colored. Their eyes are green, brown, or hazel.</p>
-			<p class="indent"><strong><em>Ability Score Increase.</em></strong> Your Wisdom score increases by 1.</p>
-			<p class="indent"><strong><em>Elf Weapon Training.</em></strong> You have proficiency with the longsword, shortsword, shortbow, and longbow.</p>
-			<p class="indent"><strong><em>Fleet of Foot.</em></strong> Your base walking speed increases to 35 feet.</p>
-			<p class="indent"><strong><em>Mask of the Wild.</em></strong> You can attempt to hide even when you are only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena.</p>
+			<p>Un elfo dei boschi è dotato di sensi acuti e di un profondo intuito, nonché di un passo leggero che gli consente di spostarsi velocemente e silenziosamente attraverso le sue foreste natie. Questa categoria di elfi include gli elfi selvaggi (grugach) di Greyhawk, i Kagonesti di Dragonlance e anche le razze denominate elfi dei boschi di Greyhawk e Forgotten Realms. Nel Faerun gli elfi dei boschi (chiamati anche elfi selvaggi, elfi verdi o elfi delle foreste) vivono isolati e diffidano di tutti i membri delle altre razze. Gli elfi dei boschi tendono ad avere la pelle ramata, a volte con qualche traccia di verde. I loro capelli tendono al nero o al castano, ma esistono anche alcuni individui biondi o dai capelli ramati. I loro occhi sono verdi, marrone o nocciola.</p>
+			<p class="indent"><strong><em>Incremento dei Punteggi Caratteristica.</em></strong> Il punteggio di Saggezza di un elfo dei boschi aumenta di 1.</p>
+			<p class="indent"><strong><em>Addestramento nelle Armi Elfiche</em></strong> Un elfo alto ha competenza nelle spade corte, nelle spade lunghe, negli archi corti e negli archi lunghi.</p>
+			<p class="indent"><strong><em>Piede lesto.</em></strong> La velocità base sul terreno di un elfo dei boschi aumenta a 10,5 metri.</p>
+			<p class="indent"><strong><em>Maschera della Selva.</em></strong> Un elfo dei boschi può tentare di nascondersi alla vista altrui anche quando è leggermente oscurato da fogliame, pioggia fitta, neve, foschia e altri fenomeni naturali. </p>
 		</description>
 		<sheet display="false" />
 		<setters>
-			<set name="height" modifier="2d10">4'6"</set>
-			<set name="weight" modifier="1d4">100 lb.</set>
+			<set name="height" modifier="2d10">135 cm</set>
+			<set name="weight" modifier="1d4">50 kg</set>
 		</setters>
 		<rules>
 			<stat name="wisdom" value="1" requirements="!ID_WOTC_TCOE_OPTION_CUSTOMIZED_ASI" />
@@ -188,41 +188,41 @@
 			<grant type="Racial Trait" id="ID_RACIAL_TRAIT_MASK_OF_THE_WILD" />
 		</rules>
 	</element>
-	<element name="Fleet of Foot" type="Racial Trait" source="Player’s Handbook" id="ID_RACIAL_TRAIT_FLEET_OF_FOOT">
+	<element name="Piede Lesto" type="Racial Trait" source="Player’s Handbook" id="ID_RACIAL_TRAIT_FLEET_OF_FOOT">
 		<description>
-			<p>Your base walking speed increases to 35 feet.</p>
+			<p> La velocità base sul terreno di un elfo dei boschi aumenta a 10,5 metri.</p>
 		</description>
 		<sheet display="false">
-			<description>Your speed increases to 35 feet.</description>
+			<description> La velocità base sul terreno di un elfo dei boschi aumenta a 10,5 metri.</description>
 		</sheet>
 		<rules>
-			<stat name="innate speed" value="35" bonus="base" />
+			<stat name="innate speed" value="10,5" bonus="base" />
 		</rules>
 	</element>
-	<element name="Mask of the Wild" type="Racial Trait" source="Player’s Handbook" id="ID_RACIAL_TRAIT_MASK_OF_THE_WILD">
+	<element name="Maschera della Selva" type="Racial Trait" source="Player’s Handbook" id="ID_RACIAL_TRAIT_MASK_OF_THE_WILD">
 		<description>
-			<p>You can attempt to hide even when you are only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena.</p>
+			<p>Un elfo dei boschi può tentare di nascondersi alla vista altrui anche quando è leggermente oscurato da fogliame, pioggia fitta, neve, foschia e altri fenomeni naturali. </p>
 		</description>
 		<sheet>
-			<description>You can attempt to hide even when you are only lightly obscured.</description>
+			<description>Un elfo dei boschi può tentare di nascondersi alla vista altrui anche quando è leggermente oscurato.</description>
 		</sheet>
 	</element>
 
-	<element name="Dark Elf" type="Sub Race" source="Player’s Handbook" id="ID_SUB_RACE_DARK_ELF">
+	<element name="Elfo Oscuro" type="Sub Race" source="Player’s Handbook" id="ID_SUB_RACE_DARK_ELF">
 		<supports>Elf</supports>
 		<description>
-			<p>Descended from an earlier subrace of dark-skinned elves, the drow were banished from the surface world for following the goddess Lolth down the path to evil and corruption. Now they have built their own civilization in the depths of the Underdark, patterned after the Way of Lolth. Also called dark elves, the drow have black skin that resembles polished obsidian and stark white or pale yellow hair. They commonly have very pale eyes (so pale as to be mistaken for white) in shades of lilac, silver, pink, red, and blue. They tend to be smaller and thinner than most elves.</p>
-			<p class="indent">Drow adventurers are rare, and the race does not exist in all worlds. Check with your Dungeon Master to see if you can play a drow character.</p>
-			<p class="indent"><strong><em>Ability Score Increase.</em></strong> Your Charisma score increases by 1.</p>
-			<p class="indent"><strong><em>Superior Darkvision.</em></strong> Your darkvision has a radius of 120 feet.</p>
-			<p class="indent"><strong><em>Sunlight Sensitivity.</em></strong> You have disadvantage on attack rolls and on Wisdom (Perception) checks that rely on sight when you, the target of your attack, or whatever you are trying to perceive is in direct sunlight.</p>
-			<p class="indent"><strong><em>Drow Magic.</em></strong> You know the dancing lights cantrip. When you reach 3rd level, you can cast the faerie fire spell, you must finish a long rest to cast the spell again with the trait. When you reach 5th level, you can also cast the darkness spell, you must finish a long rest to cast the spell again with the trait. Charisma is your spellcasting ability for these spells.</p>
-			<p class="indent"><strong><em>Drow Weapon Training.</em></strong> You have proficiency with rapiers, shortswords, and hand crossbows.</p>
+			<p>I drow discendono da un'antica sottorazza di elfi dalla pelle scura che fu esiliata dal mondo di superficie per avere seguito la dea Lolth sulla via del male. Oggi i drow hanno edificato una loro società nelle viscere dell'Underdark. modellata sulla Via di Lolth. I drow, detti anche elfi oscuri, hanno la pelle nera, simile all'ossidiana lucida, e capelli di colore bianco lucente o giallo tenue. Generalmente hanno gli occhi molto pallidi (talmente pallidi da sembrare a volte quasi privi di pupille) o di sfumature lilla, argento, rosa, rosso e blu. Tendono a essere ancora più piccoli e magri degli altri elfi.</p>
+			<p class="indent"> Gli avventurieri drow sono rari. Un giocatore dovrà consultarsi con il Dungeon Master per ottenere il permesso di interpretare un drow.</p>
+			<p class="indent"><strong><em>Incremento dei Punteggi Caratteristica.</em></strong> . Il punteggio di Carisma di un elfo oscuro aumenta di 1.</p>
+			<p class="indent"><strong><em>Scurovisione Superiore.</em></strong> La scurovisione di un elfo oscuro arriva fino a 36 metri. .</p>
+			<p class="indent"><strong><em>Sensibilità alla Luce del Sole.</em></strong> Un elfo oscuro dispone di svantaggio ai tiri per colpire e alle prove di Saggezza (Percezione) basate sulla vista quando l'elfo in questione, il bersaglio del suo attacco o l'oggetto da percepire si trovano in piena luce del sole.</p>
+			<p class="indent"><strong><em>Magia Drow.</em></strong> Un elfo oscuro conosce il trucchetto luci danzanti. Quando raggiunge il 3° livello, può lanciare l'incantesimo luminescenza una volta con questo tratto e recuperare la capacità di farlo quando completa un riposo lungo. Quando raggiunge il 5° livello può lanciare l'incantesimo oscurità una volta con questo tratto e recuperare la capacità di farlo quando completa un riposo lungo. La caratteristica da incantatore per questi incantesimi è Carisma.</p>
+			<p class="indent"><strong><em>Addestramento nelle Armi Drow.</em></strong> I drow hanno competenza nelle spade corte, negli stocchi e nelle balestre a mano. </p>
 		</description>
 		<sheet display="false" />
 		<setters>
-			<set name="height" modifier="2d6">4'5"</set>
-			<set name="weight" modifier="1d6">75 lb.</set>
+			<set name="height" modifier="2d6">132,5 cm</set>
+			<set name="weight" modifier="1d6">37,5 kg</set>
 		</setters>
 		<rules>
 			<stat name="charisma" value="1" requirements="!ID_WOTC_TCOE_OPTION_CUSTOMIZED_ASI" />
@@ -233,22 +233,22 @@
 			<grant type="Racial Trait" id="ID_RACIAL_TRAIT_DROW_WEAPON_TRAINING" />
 		</rules>
 	</element>
-	<element name="Sunlight Sensitivity" type="Racial Trait" source="Player’s Handbook" id="ID_RACIAL_TRAIT_SUNLIGHT_SENSITIVITY">
+	<element name="Sensibilità alla Luce del Sole" type="Racial Trait" source="Player’s Handbook" id="ID_RACIAL_TRAIT_SUNLIGHT_SENSITIVITY">
 		<description>
-			<p>You have disadvantage on attack rolls and on Wisdom (Perception) checks that rely on sight when you, the target of your attack, or whatever you are trying to perceive is in direct sunlight.</p>
+			<p>Un elfo oscuro dispone di svantaggio ai tiri per colpire e alle prove di Saggezza (Percezione) basate sulla vista quando l'elfo in questione, il bersaglio del suo attacco o l'oggetto da percepire si trovano in piena luce del sole.</p>
 		</description>
 		<sheet>
-			<description>You have disadvantage on attack rolls and on Perception checks that rely on sight when you, the target of your attack, or whatever you are trying to perceive is in direct sunlight.</description>
+			<description>Un elfo oscuro dispone di svantaggio ai tiri per colpire e alle prove di Saggezza (Percezione) basate sulla vista quando l'elfo in questione, il bersaglio del suo attacco o l'oggetto da percepire si trovano in piena luce del sole.</description>
 		</sheet>
 	</element>
-	<element name="Drow Magic" type="Racial Trait" source="Player’s Handbook" id="ID_RACIAL_TRAIT_DROW_MAGIC">
+	<element name="Magia Drow" type="Racial Trait" source="Player’s Handbook" id="ID_RACIAL_TRAIT_DROW_MAGIC">
 		<description>
-			<p>You know the <em>dancing lights</em> cantrip. When you reach 3rd level, you can cast the faerie fire spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can also cast the darkness spell once with this trait and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells.</p>
+			<p> Un elfo oscuro conosce il trucchetto <em>luci danzanti</em>. Quando raggiunge il 3° livello, può lanciare l'incantesimo luminescenza una volta con questo tratto e recuperare la capacità di farlo quando completa un riposo lungo. Quando raggiunge il 5° livello può lanciare l'incantesimo oscurità una volta con questo tratto e recuperare la capacità di farlo quando completa un riposo lungo. La caratteristica da incantatore per questi incantesimi è Carisma.</p>
 		</description>
 		<sheet>
-			<description>You know the dancing lights cantrip. Charisma is your spellcasting ability for this spell.</description>
-			<description level="3">You know the dancing lights cantrip. You can cast faerie fire spell once per long rest. Charisma is your spellcasting ability for these spells.</description>
-			<description level="5">You know the dancing lights cantrip. You can cast faerie fire and darkness spells once per long rest. Charisma is your spellcasting ability for these spells.</description>
+			<description>Un elfo oscuro conosce il trucchetto luci danzanti. La caratteristica da incantatore per questi incantesimi è Carisma.</description>
+			<description level="3">Un elfo oscuro conosce il trucchetto luci danzanti. Può lanciare l'incantesimo luminescenza una volta con questo tratto e recuperare la capacità di farlo quando completa un riposo lungo. La caratteristica da incantatore per questi incantesimi è Carisma.</description>
+			<description level="5">Un elfo oscuro conosce il trucchetto luci danzanti. Può lanciare l'incantesimo luminescenza e oscurità una volta con questo tratto e recuperare la capacità di farlo quando completa un riposo lungo. La caratteristica da incantatore per questi incantesimi è Carisma.</description>
 		</sheet>
 		<rules>
 			<grant type="Spell" id="ID_PHB_SPELL_DANCING_LIGHTS" level="1" />
@@ -256,12 +256,12 @@
 			<grant type="Spell" id="ID_PHB_SPELL_DARKNESS" level="5" />
 		</rules>
 	</element>
-	<element name="Drow Weapon Training" type="Racial Trait" source="Player’s Handbook" id="ID_RACIAL_TRAIT_DROW_WEAPON_TRAINING">
+	<element name="Addestramento nelle Armi Drow" type="Racial Trait" source="Player’s Handbook" id="ID_RACIAL_TRAIT_DROW_WEAPON_TRAINING">
 		<description>
-			<p>You have proficiency with rapiers, shortswords, and hand crossbows.</p>
+			<p>I drow hanno competenza nelle spade corte, negli stocchi e nelle balestre a mano.</p>
 		</description>
 		<sheet display="false">
-			<description>You have proficiency with rapiers, shortswords, and hand crossbows.</description>
+			<description>I drow hanno competenza nelle spade corte, negli stocchi e nelle balestre a mano.</description>
 		</sheet>
 		<rules>
 			<grant type="Proficiency" id="ID_PROFICIENCY_WEAPON_PROFICIENCY_RAPIER" requirements="!ID_WOTC_TCOE_OPTION_CUSTOMIZED_PROFICIENCY" />
